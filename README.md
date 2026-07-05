@@ -48,7 +48,6 @@ Decision Making
 - Python
 - LangGraph
 - LangChain Core
-- Pydantic
 - python-dotenv
 
 ---
